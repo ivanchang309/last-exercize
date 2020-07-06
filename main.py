@@ -2,7 +2,7 @@ myList = []
 average1 = 0
 running = True
 while running:
-  num = input("fdsf")
+  num = input("what number")
   if num == "stop":
     running = False
     break
